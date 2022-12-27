@@ -1,0 +1,34 @@
+_repo: Om-The-secret-of-Ahbor-Valley_69586
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Lester, Leonard
+    gutenberg_agent_id: '55333'
+    url: http://www.gutenberg.org/2009/agents/55333
+creator:
+  author:
+    agent_name: Mundy, Talbot
+    alias: Gribbon, William Lancaster
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '1481'
+    url: http://www.gutenberg.org/2009/agents/1481
+    wikipedia: https://en.wikipedia.org/wiki/Talbot_Mundy
+description: ''
+gutenberg_issued: '2022-12-19'
+identifiers:
+  gutenberg: '69586'
+language: en
+pgterms:marc905: 20221218161045mundy
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Al Haines, Cindy Beyer & the online Distributed Proofreaders Canada
+  team at https://www.pgdpcanada.net
+publication_note: 'United States: Bobbs-Merrill Company,1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Om: The secret of Ahbor Valley'
+url: http://www.gutenberg.org/ebooks/69586
