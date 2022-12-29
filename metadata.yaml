@@ -5,6 +5,9 @@ contributor:
     agent_name: Lester, Leonard
     gutenberg_agent_id: '55333'
     url: http://www.gutenberg.org/2009/agents/55333
+covers:
+- cover_type: archival
+  image_path: 69586-h/images/cover.jpg
 creator:
   author:
     agent_name: Mundy, Talbot
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1481
     wikipedia: https://en.wikipedia.org/wiki/Talbot_Mundy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69586#Om-The-secret-of-Ahbor-Valley
 gutenberg_issued: '2022-12-19'
 identifiers:
   gutenberg: '69586'
